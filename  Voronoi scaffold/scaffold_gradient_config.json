@@ -1,0 +1,15 @@
+{
+  "dimensions": {
+    "x_size_um": 800.0,
+    "y_size_um": 800.0,
+    "z_size_um": 100.0
+  },
+  "target_porosity": 0.68,
+  "seed_density": null,
+  "n_seeds": 742,
+  "statistics": {
+    "mean_pore_size_um": 71.4845604050988,
+    "std_pore_size_um": 9.847190435080718,
+    "n_interior_cells": 86
+  }
+}

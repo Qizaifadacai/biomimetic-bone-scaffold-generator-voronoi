@@ -1,0 +1,50 @@
+=== 复制以下内容到GitHub仓库的Description ===
+
+Interactive Biomimetic Bone Scaffold Generator with Voronoi Tessellation for Tissue Engineering
+
+=== 复制以下Topics（用逗号或空格分隔）===
+
+python, voronoi, tissue-engineering, 3d-visualization, scaffold, stem-cell, biomedical-engineering, matplotlib, scipy, bone-tissue, gradient-density, stl-export
+
+=== 仓库设置建议 ===
+
+✅ 勾选 Issues
+✅ 勾选 Wiki (可选)
+✅ 勾选 Discussions (可选)
+❌ 不勾选 Projects (除非需要)
+❌ 不勾选 Sponsorships (除非需要)
+
+=== Social Preview（社交预览图）===
+
+建议尺寸: 1280 x 640 像素
+可以使用程序生成的Voronoi可视化图片
+
+=== 推荐的README徽章（已在README.md中）===
+
+- Python 3.7+
+- MIT License
+- GitHub Stars
+- GitHub Forks
+- Issues
+- Last Commit
+
+=== 首次Commit信息（已在脚本中）===
+
+🎉 Initial commit: Interactive Biomimetic Bone Scaffold Generator
+
+Features:
+- 🎨 Colorful 3D Voronoi visualization with 30+ colors
+- 📸 SEM-style realistic scaffold rendering (4 viewing angles)
+- ✨ TextBox-based parameter input (no sliders)
+- 💾 One-click export for STL files and high-resolution visualizations
+- 🧬 Gradient density support (cortical, transition, trabecular)
+- 🔬 Tissue engineering and stem cell research applications
+
+Technologies:
+- Python 3.7+
+- NumPy, SciPy, Matplotlib
+- 3D Voronoi tessellation
+- Interactive GUI interface
+
+Author: Qizaifadacai
+License: MIT
