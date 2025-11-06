@@ -48,6 +48,45 @@ Voronoi scaffold/*.png
 # Temporary files
 *.log
 *.tmp
+
+# Old/deprecated files (Chinese names - keep local only)
+支持梯度的Voronoi支架生成器.py
+新版本演示.py
+启动器.py
+interactive_demo.py
+voronoi_scaffold_generator.py
+test_all_features.py
+advanced_visualization.py
+quick_start.bat
+quick_start.sh
+git命令速查.sh
+一键上传.sh
+添加示例图.sh
+upload_to_github.sh
+组成梯度的Voronoi生成/
+
+# Helper/guide files (Chinese - keep local, not needed on GitHub)
+README_使用指南.md
+GITHUB_发布指南.md
+项目总览.md
+截图操作指南.txt
+如何添加截图.md
+文件清单.txt
+精简完成总结.txt
+QUICK_SUMMARY.txt
+PROJECT_OVERVIEW.md
+FINAL_CHECKLIST.md
+UPLOAD_GUIDE.md
+GITHUB_SETUP.md
+
+# Keep only essential documentation on GitHub:
+# - README.md (English)
+# - README_CN.md (Chinese)
+# - LICENSE
+# - CONTRIBUTING.md
+# - CHANGELOG.md
+# - START_HERE.md
+# - PROJECT_FILES.md
 .cache/
 
 # OS files

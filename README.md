@@ -28,6 +28,11 @@
 
 ### 🎬 Demo
 
+#### Interactive Interface
+<img src="examples/interactive_interface.png" alt="Interactive Interface" width="800"/>
+
+*Real-time interactive interface - 6 live plots with direct numerical input (textboxes)*
+
 #### Colorful 3D Voronoi Structure
 <img src="examples/colorful_voronoi_3d.png" alt="Colorful Voronoi" width="600"/>
 
@@ -37,6 +42,11 @@
 <img src="examples/realistic_scaffold.png" alt="SEM Scaffold" width="600"/>
 
 *4-view grayscale rendering with dynamic lighting - scanning electron microscope style*
+
+#### Gradient Analysis
+<img src="examples/gradient_analysis.png" alt="Gradient Analysis" width="600"/>
+
+*Complete gradient analysis with density distribution, pore size, and gradient curves*
 
 ### 🚀 Quick Start
 
@@ -54,15 +64,27 @@ pip install -r requirements.txt
 #### Run Interactive Interface
 
 ```bash
-python 新版本演示.py
+python3 demo.py
 ```
 
-Or run the main program:
+Or use the quick start script:
+
+```bash
+bash run.sh
+```
 
 ```bash
 python 支持梯度的Voronoi支架生成器.py
-# Select: 1
+# Then select option: 1
 ```
+
+**Interactive Interface Preview:**
+
+<img src="examples/interactive_interface.png" alt="Interactive Interface" width="800"/>
+
+*Real-time interactive interface with 6 live plots and direct numerical input*
+
+---
 
 ### 🎮 How to Use
 

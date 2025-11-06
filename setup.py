@@ -55,7 +55,8 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "scaffold-generator=新版本演示:main",
+            "scaffold-generator=demo:main",
+            "biomimetic-scaffold=demo:main",
         ],
     },
     keywords=[

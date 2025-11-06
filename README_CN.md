@@ -78,7 +78,12 @@ quick_start.bat
 
 #### 手动运行
 ```bash
-python3 新版本演示.py
+python3 demo.py
+```
+
+或使用快速启动脚本：
+```bash
+bash run.sh
 ```
 
 ---
@@ -142,8 +147,12 @@ python3 新版本演示.py
 
 ```
 biomimetic-bone-scaffold-generator-voronoi/
-├── 支持梯度的Voronoi支架生成器.py    # 主程序（核心算法）
-├── 新版本演示.py                      # 演示启动器
+├── scaffold_generator.py              # Main program (core algorithm)
+├── demo.py                            # Demo launcher
+├── visualization.py                   # Advanced visualization tools
+├── run.sh                             # Quick start script
+├── git_init.sh                        # GitHub initialization
+├── copy_screenshots.sh                # Screenshot copy tool
 ├── voronoi_scaffold_generator.py      # 基础生成器
 ├── advanced_visualization.py          # 高级可视化工具
 ├── test_all_features.py              # 功能测试
